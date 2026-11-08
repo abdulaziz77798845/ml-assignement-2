@@ -60,6 +60,7 @@ streamlit run app.py
 3. Select **New app**, choose the repository and `main` branch.
 4. Set the main file path to `app.py` and deploy.
 5. Copy the live app URL into the final submission PDF.
+6. https://ml-assignement-2-bqcwicykvappa3kfatws9lr.streamlit.app/ (Deployment URL)
 
 ## BITS Virtual Lab evidence
 Run the training and evaluation workflow in BITS Virtual Lab and capture one screenshot showing the assignment execution. Add that screenshot to the final submission PDF. This screenshot and the live deployment must be completed by the student; they cannot be truthfully generated from this prepared project.

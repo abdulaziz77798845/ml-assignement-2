@@ -14,7 +14,7 @@ Build and compare five supervised classification algorithms to predict whether a
 - **Test file:** `test_data.csv` contains the held-out test rows and target column.
 
 ## c. GitHub Repository Link
-Add your repository URL here after creating and pushing this project to GitHub: **[PASTE YOUR GITHUB REPOSITORY LINK]**
+Add your repository URL here after creating and pushing this project to GitHub: **https://github.com/abdulaziz77798845/ml-assignement-2**
 
 ## d. Models used
 

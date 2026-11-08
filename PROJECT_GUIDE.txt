@@ -1,0 +1,9 @@
+PROJECT GUIDE
+1. Inspect README.md for the dataset, split, metrics, and deployment steps.
+2. The saved model files and test_data.csv are already generated for the fixed 80/20 stratified split (random_state=42).
+3. Run: pip install -r requirements.txt
+4. Run: streamlit run app.py
+5. Upload test_data.csv and choose each model from the dropdown.
+6. Push all project files to your own GitHub repository and deploy app.py using Streamlit Community Cloud.
+7. Run the workflow in BITS Virtual Lab and take your own screenshot.
+Important: review the code, understand the evaluation, and customize your analysis. The assignment PDF says AI is for learning support, not direct copy-paste submission.
